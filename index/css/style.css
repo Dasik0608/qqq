@@ -1,0 +1,98 @@
+
+ .body { background:  #f5f7fa;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: scroll;
+    /* Адаптивный фон-картинка*/
+    background-image: url(../img/konfetki-sladost-raduga-fon-doski.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+ .main-cont {
+      display: flex;}
+     
+.sidebar {
+    width: 180px;
+    height: 300px;
+    margin: 80px;
+    padding: 30px;
+    border: 3px double #fff;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    background: rgba(206, 233, 88, 0.5);
+
+}
+
+.container-tel1 {
+    margin-bottom: 20px;
+
+
+}
+
+.knopki-conteiner {
+ display: flex;
+
+
+}
+
+.one {
+   padding: 30px;
+   
+}
+
+.two {
+    padding: 30px;
+    
+ }
+.three {
+    padding: 30px;
+    
+
+ }
+
+ .amelina {
+     padding: 20px;}
+    
+
+.bucovuna {
+    padding: 20px;
+
+}
+
+.dobrumludam {
+    padding: 20px;
+
+}
+
+.dumerskisolod {
+    padding: 20px;
+
+}
+
+.medunya {
+    padding: 20px;
+}
+
+.nibuluca {
+    padding: 20px;
+}
+    
+.semi {
+    padding: 20px;
+}
+ 
+.zolotuivik {
+    padding: 20px;
+}
+
+.ukraine {
+    padding: 20px;
+}
+
+
+
